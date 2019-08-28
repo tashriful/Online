@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<system name="s" id="newspaper">
+<user type="normal">
+<fname>rahim</fname>
+<lname>khan</lname>
+<email>rahim@gmail.com</email>
+<uname>rahim</uname>
+<pass>123</pass>
+<cpass>123</cpass>
+
+</user>
+
+<user type="admin">
+<fname>karim</fname>
+<lname>khan</lname>
+<email>karim@gmail.com</email>
+<uname>karim</uname>
+<pass>234</pass>
+<cpass>234</cpass>
+
+</user>
+
+</system>
